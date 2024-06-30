@@ -13,7 +13,7 @@
 - [5] -> Days of Week ( 0-6 )
 - [6] -> command
 
-### 1-6 accepted format
+###  accepted format for 1-5
 
   -  `*`
   -  0,1,2,3,4
