@@ -2,7 +2,7 @@
 
 - Ignores lines which have invalid format
 - Exits if config file "nt_cron.conf" is not able to open
-- Default config file "/etc/nt_cron.conf" is not able to open
+- Default config file is "/etc/nt_cron.conf"
   
 ##  config format
 
