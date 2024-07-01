@@ -2,6 +2,7 @@
 
 - Ignores lines which have invalid format
 - Exits if config file "nt_cron.conf" is not able to open
+- Default config file "/etc/nt_cron.conf" is not able to open
   
 ##  config format
 
@@ -34,10 +35,10 @@
 ## TO-DO
 
 - [ ] Take argument
-  - [ ] config file path
-  - [ ] run as daemon
+  - [x] custom config file path
+  - [x] run as foreground
   - [ ] any others ?
-- [ ] Run as daemon 
+- [x] Run as daemon 
 - [ ] Signal handling SIGINT and others ?
 - [ ] Optimize the algorithm for time matching
 - [ ] Code documentation in doxygen format 
